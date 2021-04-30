@@ -41,8 +41,8 @@ const config = {
         ],
         version: "0.0.2",
         description: "Allows you to copy certain stuff with custom options.",
-        github: "https://github.com/Strencher/BetterDiscordStuff/blob/master/Copier/Copier.plugin.js",
-        github_raw: "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/Copier/Copier.plugin.js"
+        github: "https://github.com/Mosie0/CopiervM.plugin.js/blob/main/CopiervM.plugin.js",
+        github_raw: "https://raw.githubusercontent.com/Mosie0/CopiervM.plugin.js/main/CopiervM.plugin.js"
     },
     changelog: [
         {
